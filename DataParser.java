@@ -19,7 +19,6 @@ public class DataParser {
         return list;
     }
 
-    // Not tested
     public static String javaimpload(List<String> list, String delimeter){
         String _appendto  = "";
         for (int i = 0; i < list.size(); i++){
